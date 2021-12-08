@@ -1,0 +1,54 @@
+body {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    background-color: black;
+    height: 85px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-right: 50px;
+}
+
+li {
+    float: right;
+    padding: 35px;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    width: 500px;
+    background: lightgrey;
+    border-radius: 15px;
+    margin: 50px auto 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+.photo {
+    width: 200px;
+    border-radius: 100px;
+    align-items: center;
+}
+
+h1 {
+
+}
+
+p {
+
+}
+
+.footer {
+      background: black;
+      margin-top: 100px;
+      padding: 20px;
+      text-align: center;
+      font-size: 12px;
+      color: white;
+}
